@@ -1,0 +1,16 @@
+# Virtual Environment
+venv/
+
+# Pycache
+*.pyc
+__pycache__/
+
+
+
+
+########### FILES OUTPUT BY SPIDERS ################
+# CSV Files
+*.csv
+
+# JSON Files
+*.json
