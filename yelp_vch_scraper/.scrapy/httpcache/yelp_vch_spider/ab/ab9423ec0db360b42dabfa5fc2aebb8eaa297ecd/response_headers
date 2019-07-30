@@ -1,0 +1,27 @@
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+X-Xss-Protection: 1; report=https://www.yelp.com/xss_protection_report
+X-Content-Type-Options: nosniff
+Referrer-Policy: origin-when-cross-origin
+X-Envoy-Upstream-Service-Time: 1921
+Cache-Control: private, no-transform
+X-Zipkin-Id: 8589521c57ea77eb
+X-Node: www_all
+X-Node: 10-69-213-159-uswest2cprod-44e112e8-b2fa-11e9-8e8a-fefa6f98f
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Routing-Service: 10-69-106-142-uswest2aprod; site=www
+X-B3-Sampled: 0
+X-Mode: ro
+X-Proxied: 10-69-253-36-uswest2cprod
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Accept-Ranges: bytes
+Age: 0
+Age: 0
+Date: Tue, 30 Jul 2019 19:18:58 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bur17531-BUR
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1564514337.597367,VS0,VE1955
+Vary: User-Agent
